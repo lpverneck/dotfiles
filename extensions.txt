@@ -1,0 +1,16 @@
+abusaidm.html-snippets@0.2.1
+akamud.vscode-theme-onedark@2.2.1
+CoenraadS.bracket-pair-colorizer-2@0.1.4
+dbaeumer.vscode-eslint@2.1.5
+dracula-theme.theme-dracula@2.22.1
+Equinusocio.vsc-community-material-theme@1.4.1
+Equinusocio.vsc-material-theme@32.6.0
+formulahendry.code-runner@0.10.0
+ms-python.python@2020.5.86398
+njpwerner.autodocstring@0.5.3
+PKief.material-icon-theme@4.1.0
+remimarsal.prettier-now@1.4.9
+ritwickdey.LiveServer@5.6.1
+whizkydee.material-palenight-theme@1.9.7
+xabikos.JavaScriptSnippets@1.8.0
+zhuangtongfa.material-theme@3.7.1
