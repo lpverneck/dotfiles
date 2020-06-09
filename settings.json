@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "python.formatting.provider": "black",
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "editor.formatOnSave": true,
+    "terminal.integrated.inheritEnv": false,
+    "editor.rulers": [
+        72,
+        79
+    ],
+    "workbench.startupEditor": "none"
+}
