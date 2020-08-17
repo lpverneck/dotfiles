@@ -14,3 +14,12 @@ ritwickdey.LiveServer@5.6.1
 whizkydee.material-palenight-theme@1.9.7
 xabikos.JavaScriptSnippets@1.8.0
 zhuangtongfa.material-theme@3.7.1
+
+=================================================
+
+CoenraadS.bracket-pair-colorizer-2@
+formulahendry.code-runner@
+dracula-theme.theme-dracula@
+PKief.material-icon-theme@
+ms-python.python@
+njpwerner.autodocstring@
