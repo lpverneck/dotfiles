@@ -1,13 +1,22 @@
 {
+    "window.titleBarStyle": "custom",
+    "workbench.startupEditor": "none",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Dracula",
-    "python.formatting.provider": "black",
+    "python.pythonPath": "/home/lcs/anaconda3/envs/nanodegree/bin/python",
+    "terminal.integrated.inheritEnv": false,
     "python.dataScience.sendSelectionToInteractiveWindow": true,
     "editor.formatOnSave": true,
-    "terminal.integrated.inheritEnv": false,
     "editor.rulers": [
         72,
         79
     ],
-    "workbench.startupEditor": "none"
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "79"
+    ]
 }
